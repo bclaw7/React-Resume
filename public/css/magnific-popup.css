@@ -56,8 +56,8 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: rgba(255, 255, 255, 0.43);
+   font: 100px/2em verdana, sans-serif;
+   color: rgba(184, 59, 212, 0.519);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
@@ -125,7 +125,7 @@ header .scrolldown a:hover { color: #07b4f9; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 12px verdana, sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -203,8 +203,8 @@ ul#nav li.current a { color: #fe6928; }
 #about .profile-pic {
    position: relative;
    width: 120px;
-   height: 180px;
-   border-radius: 45%;
+   height: 160px;
+   border-radius: 5%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {

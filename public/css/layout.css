@@ -56,7 +56,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 100px/2em verdana, sans-serif;
    color: rgba(255, 255, 255, 0.43);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
