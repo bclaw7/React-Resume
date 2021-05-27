@@ -27,7 +27,10 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
-
+@font-face {
+    font-family: sedgwick;
+    src: url("SedgwickAveDisplay-Regular.ttf");
+}
 header {
    position: relative;
    height: 800px;
@@ -56,13 +59,13 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 100px/2em verdana, sans-serif;
+   font-family: 100px/2em 'sedgwick', verdana, sans-serif;
    color: rgba(184, 59, 212, 0.519);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 18px/1.9em verdana;
    color: rgba(221, 221, 221, 0.731);
    margin: 0 auto;
    width: 70%;
@@ -231,7 +234,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background-image: linear-gradient(to bottom right, rgb(151, 0, 151), rgb(0, 169, 178));
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
