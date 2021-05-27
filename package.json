@@ -13,6 +13,7 @@
     "react-ga": "^3.3.0",
     "react-reveal": "^1.2.2",
     "react-scripts": "^4.0.3",
+    "react-zmage": "^0.8.5-beta.37",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

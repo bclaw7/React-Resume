@@ -1,0 +1,178 @@
+{
+	"main": {
+		"name": "Byron Cole Lawlis",
+		"description": "I am a web development engineer and I use react to develop pages.",
+		"image": "profilepic.jpg",
+		"bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+		"email": "bclaw8300@gmail.com",
+		"phone": "970-218-4691",
+		"github": "https://github.com/nordicgiant2/react-nice-resume",
+		"project": "https://github.com/nordicgiant2/react-nice-resume",
+		"address": {
+			"street": "409 Webb Avenue",
+			"city": "Fort Collins",
+			"state": "Colorado",
+			"zip": "80521"
+		},
+		"website": "http://www.bclaw.design",
+		"resumedownload": "http://www.bclaw.design",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://facebook.com",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "http://twitter.com",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "http://instagram.com/tbaker_x",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/bclaw7",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Always learning and creating.",
+		"education": [
+			{
+				"school": "Digital Workshop Center",
+				"degree": "Front-End Web Development",
+				"graduated": "May 2021",
+				"description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+			},
+			{
+				"school": "South Plains College",
+				"degree": "Sound Technology",
+				"graduated": "May 2008",
+				"description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+			}
+		],
+		"work": [ 
+			{
+				"company": "bclaw.design",
+				"title": "Web Developer",
+				"years": "January 2021 - Present",
+				"description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+            
+			},
+			{
+				"company": "Shaped Music",
+				"title": "Audio Engineer",
+				"years": "September 2010 - March 2020",
+				"description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+			}
+            ],
+		"skills": [
+			{
+				"name": "HTML",
+				"level": "90%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "Bootstrap",
+				"level": "80%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "60%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "50%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "bclaw.design",
+				"category": "My Company Website",
+				"image": "Block-Hand.jpg",
+				"url": "https://www.bclaw.design"
+			},
+			{
+				"title": "Tyler T.",
+				"category": "Band Website",
+				"image": "02.jpg",
+				"url": "http://www.tylertmusic.com"
+			},
+			{
+				"title": "Spork Pirate",
+				"category": "Obscure Artist Website",
+				"image": "03.jpg",
+				"url": "http://www.sporkpirate.art"
+			},
+			{
+				"title": "Resume Website",
+				"category": "A React based resume website template",
+				"image": "04.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "05.jpg",
+				"url": "http://www.smirkspace.com"
+			},
+			{
+				"title": "Canadian Wanderlust",
+				"category": "My Travel Blog for my post-university travels",
+				"image": "06.jpg",
+				"url": "https://www.canadianwanderlust.com"
+			},
+			{
+				"title": "Fury Fighting Gear",
+				"category": "(offline now) A fighting gear company I started",
+				"image": "01.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Original Thai Food",
+				"category": "Website I built for a restaurant I like in Thailand",
+				"image": "02.jpg",
+				"url": "http://www.timbakerdev.com/originalthaifood.github.io"
+			},
+			{
+				"title": "Original Thai Food",
+				"category": "Website I built for a restaurant I like in Thailand",
+				"image": "03.jpg",
+				"url": "http://www.timbakerdev.com/originalthaifood.github.io"
+			},
+			{
+				"title": "Resume Website",
+				"category": "A React based resume website template",
+				"image": "04.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "05.jpg",
+				"url": "http://www.smirkspace.com"
+			},
+			{
+				"title": "Canadian Wanderlust",
+				"category": "My Travel Blog for my post-university travels",
+				"image": "06.jpg",
+				"url": "https://www.canadianwanderlust.com"
+			}
+		]
+	}
+}
