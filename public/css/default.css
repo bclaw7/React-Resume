@@ -91,7 +91,7 @@ e. Others
     word-wrap: break-word;
  }
  
- blockquote, q { quotes: &#8220 &#8220; }
+ blockquote, q { quotes: #8220 #8220; }
  
  blockquote:before, blockquote:after,
  q:before, q:after {

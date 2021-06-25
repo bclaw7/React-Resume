@@ -87,7 +87,7 @@ e. Others
     word-wrap: break-word;
  }
  
- blockquote, q { quotes: &#8220 &#8220; }
+ blockquote, q { quotes: #8220 #8220; }
  
  blockquote:before, blockquote:after,
  q:before, q:after {
@@ -538,7 +538,6 @@ e. Others
     margin: 0 0 24px 0;
     border: 0;
     outline: none;
-    vertical-align: middle;
     min-width: 225px;
      max-width: 100%;
     font-size: 15px;

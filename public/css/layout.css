@@ -56,7 +56,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 100px/2em verdana, sans-serif;
+   font-family: 100px/2em 'Sedgwick Ave Display', cursive;
    color: rgba(255, 255, 255, 0.43);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
